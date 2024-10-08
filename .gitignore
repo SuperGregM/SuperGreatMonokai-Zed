@@ -1,0 +1,14 @@
+# Ignore All
+**/*
+
+#Keep these files
+!themes
+!SuperGreatMonokai-Zed-color-theme.json
+
+!.gitignore
+
+!extension.toml
+
+!LICENSE
+
+!SuperGreatMonokai-Zed.code-workspace
