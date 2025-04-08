@@ -77,7 +77,7 @@
         "editor.indent_guide_active": null,
         "editor.document_highlight.read_background": null,
         "editor.document_highlight.write_background": null,
-        "editor.document_highlight.bracket_background": null,
+        "editor.document_highlight.bracket_background": "#2d2d2d",
         "terminal.background": "#121212",
         "terminal.foreground": null,
         "terminal.ansi.background": null,
