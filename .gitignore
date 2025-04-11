@@ -2,6 +2,12 @@
 **/*
 
 #Keep these files
+!resources
+!resources/icon.png
+!resources/screenshot_example.sh
+!resources/screenshot0.png
+!resources/Terminal-Colors.png
+
 !themes
 !SuperGreatMonokai-Zed-color-theme.json
 
