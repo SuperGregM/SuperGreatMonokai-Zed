@@ -1,14 +1,17 @@
 # Ignore All
 **/*
-
 #Keep these files
-!resources
+!.github/
+!.github/workflows/
+!.github/workflows/release.yml
+
+!resources/
 !resources/icon.png
 !resources/screenshot_example.sh
 !resources/screenshot0.png
 !resources/Terminal-Colors.png
 
-!themes
+!themes/
 !SuperGreatMonokai-Zed-color-theme.json
 
 !.gitignore
