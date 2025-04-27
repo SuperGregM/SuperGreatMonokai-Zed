@@ -1,6 +1,6 @@
 id = "supergreatmonokai"
 name = "SuperGreatMonokai"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = ["SuperGregM"]
 description = "Great Zed theme based off sublime text's monokai mixed with VSCode's monokai."
