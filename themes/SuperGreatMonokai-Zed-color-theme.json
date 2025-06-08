@@ -161,7 +161,12 @@
         "warning": null,
         "warning.background": "#969696ff",
         "warning.border": null,
-        "players": [],
+        "players": [
+          {
+            "cursor": "#8B008B",
+            "selection": "#F81CE54D"
+          }
+        ],
         "syntax": {
           "attribute": {
             "color": "#A6E22E",
