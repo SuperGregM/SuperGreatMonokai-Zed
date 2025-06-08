@@ -57,6 +57,7 @@
         "pane_group.border": null,
         "scrollbar.thumb.background": null,
         "scrollbar.thumb.hover_background": null,
+        "scrollbar.thumb.active_background": null,
         "scrollbar.thumb.border": null,
         "scrollbar.track.background": "#121212",
         "scrollbar.track.border": null,
