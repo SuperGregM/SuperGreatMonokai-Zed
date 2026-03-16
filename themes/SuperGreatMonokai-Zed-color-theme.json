@@ -387,6 +387,12 @@
             "font_style": null,
             "font_weight": null
           },
+          "type.builtin": {
+            "color": "#A6E22E",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
           "variable": {
             "color": "#0080FF",
             "background_color": null,
