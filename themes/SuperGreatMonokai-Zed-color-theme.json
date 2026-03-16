@@ -201,6 +201,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "identifier": {
+            "color": "#FF00FF",
+            "font_style": null,
+            "font_weight": null
+          },
           "keyword": {
             "background_color": null,
             "color": "#F92672",
@@ -281,6 +286,16 @@
           "punctuation.special": {
             "background_color": null,
             "color": "#F8F8F2",
+            "font_style": null,
+            "font_weight": null
+          },
+          "selector": {
+            "color": "#d2a6ffff",
+            "font_style": null,
+            "font_weight": null
+          },
+          "selector.pseudo": {
+            "color": "#5ac1feff",
             "font_style": null,
             "font_weight": null
           },
